@@ -40,6 +40,9 @@ function handleText(textNode){
 	}, {
 		originalText: "the cloud",
 		updatedText: "my butt",
+	}, {
+		originalText: "FortiGate",
+		updatedText: "Unmitigated",
 	}
 	];
 
